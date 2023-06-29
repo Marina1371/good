@@ -1,4 +1,5 @@
-<head 1>
+
+
 <html>
 <head>
 <title>Пример 1</title>
